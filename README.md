@@ -58,12 +58,8 @@
     $ npx firebase deploy
     ```
 
-6. Open `http://localhost:5001` in your browser
+6. Before you access the deployed url, add user in your firebase application 
+  ![](images/add-users.png)
+
+7. Open the deployed firebase url with the user you just created.
   ![](images/login.png)
-7. Sign up using an email address and password of your choice (e.g. `me@awesomekittens.test`)
-8. You should now be signed in
-  ![](images/loggedin.png)
-9. Navigate to `http://localhost:4000/auth` to see the newly created user in the Firebase Authentication Emulator UI
-  ![](images/auth_emulator_ui.png)
-10. Go back to the app, and sign out
-11. Sign in using the credentials you used to create the test account# firebase-auth
