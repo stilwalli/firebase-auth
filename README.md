@@ -1,12 +1,40 @@
 # Firebase Fundamentals: Getting Started with Firebase Authentication on the Web
 
-Test
+
 
 ## Prerequisites
 
 * Install the Firebase CLI tools and the Firebase Emulator suite ([instructions](https://firebase.google.com/docs/emulator-suite/install_and_configure))
 
 ## How to use
+
+1. Install Dependencies
+ ```bash
+    $ npm install
+    $ npm i firebase-tools -D
+    ```
+
+2. Init/Setup Firebase Hosting
+
+ ```bash
+npx firebase logout
+npx firebase login --no-localhost
+npx firebase init hosting
+ ```bash
+
+
+
+
+1. Initialize Firebase Hosting 
+
+ ```bash
+firebase logout
+firebase login --no-localhost
+ ```bash
+
+
+npm i firebase-tools -D
+
 
 1. Clone the repository
 2. Navigate into the root folder of this project
