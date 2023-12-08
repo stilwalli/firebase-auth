@@ -1,6 +1,6 @@
 # Firebase Fundamentals: Getting Started with Firebase Authentication on the Web
 
-This is the source code used in this video: [Getting started with Firebase Authentication on the web](https://youtu.be/rbuSx1yEgV8).
+Test
 
 ## Prerequisites
 
