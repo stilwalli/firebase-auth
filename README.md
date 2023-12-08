@@ -16,6 +16,8 @@
 
 2. Init Firebase hosting
     ```
+    $ npx firebase logout
+    $ npx firebase login --no-localhost
     $ npx firebase init hosting
     ```
 
