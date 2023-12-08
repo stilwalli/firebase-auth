@@ -59,3 +59,11 @@
 
 7. Open the deployed firebase url with the user you just created.
   ![](images/login.png)
+
+
+8. To Unhost from firebase
+    ```bash
+    $ npx firebase hosting:disable
+    ```
+
+
