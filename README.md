@@ -12,7 +12,7 @@
  ```bash
     $ npm install
     $ npm i firebase-tools -D
-    ```
+  ```bash
 
 2. Init/Setup Firebase Hosting
 
