@@ -16,14 +16,12 @@
     $ npm i firebase-tools -D
     ```
 
-2. Init Firebase 
+2. Init Firebase hosting
     ```
-    $ npx firebase init hosting
-    $ npx firebase init hosting
     $ npx firebase init hosting
     ```
 
-    Few Screen Shots for Reference
+    Few Screen Shots for Reference [Change public directory to dist]
 
     ![](images/firebasehosting-config1.png)
     ![](images/firebasehosting-config2.png)
