@@ -21,13 +21,13 @@ import {
 } from 'firebase/auth';
 
 const firebaseApp = initializeApp({
-  apiKey: "AIzaSyAcOI1ZZ6MOvlwsjXIdOGnX3PCHlrKF5L4",
-  authDomain: "genai-387917.firebaseapp.com",
-  projectId: "genai-387917",
-  storageBucket: "genai-387917.appspot.com",
-  messagingSenderId: "95065625117",
-  appId: "1:95065625117:web:674bdeff6e1afd8026ecf4",
-  measurementId: "G-QBR7MLRRCH"
+  apiKey: "Dummy",
+  authDomain: "Dummy",
+  projectId: "Dummy",
+  storageBucket: "Dummy",
+  messagingSenderId: "Dummy",
+  appId: "Dummy",
+  measurementId: "Dummy"
 });
 
 // Login using email/password
