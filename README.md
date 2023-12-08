@@ -1,7 +1,3 @@
-# Firebase Fundamentals: Getting Started with Firebase Authentication on the Web
-
-Test
-
 ## Prerequisites
 
 * Install the Firebase CLI tools and the Firebase Emulator suite ([instructions](https://firebase.google.com/docs/emulator-suite/install_and_configure))
