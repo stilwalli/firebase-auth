@@ -1,7 +1,5 @@
 ## Prerequisites
 
-* Install the Firebase CLI tools and the Firebase Emulator suite ([instructions](https://firebase.google.com/docs/emulator-suite/install_and_configure))
-
 ## How to use
 
 1. Clone the repository
