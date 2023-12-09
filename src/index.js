@@ -1,6 +1,7 @@
 import './styles.css';
 import { 
   hideLoginError, 
+  hideLinkError,
   showLoginState, 
   showLoginForm, 
   showApp, 
@@ -21,13 +22,13 @@ import {
 } from 'firebase/auth';
 
 const firebaseApp = initializeApp({
-  apiKey: "Dummy",
-  authDomain: "Dummy",
-  projectId: "Dummy",
-  storageBucket: "Dummy",
-  messagingSenderId: "Dummy",
-  appId: "Dummy",
-  measurementId: "Dummy"
+  apiKey: "AIzaSyAcOI1ZZ6MOvlwsjXIdOGnX3PCHlrKF5L4",
+  authDomain: "genai-387917.firebaseapp.com",
+  projectId: "genai-387917",
+  storageBucket: "genai-387917.appspot.com",
+  messagingSenderId: "95065625117",
+  appId: "1:95065625117:web:d2caf65d86fe0a1d26ecf4",
+  measurementId: "G-JQKTXZ88PX"
 });
 
 // Login using email/password
