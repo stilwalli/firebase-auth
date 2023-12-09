@@ -44,26 +44,34 @@
 
      ![](images/df-config-update.png)
 
-3.  Run webpack to bundle your code:
+5. [Optional] -> Do this to remove caching. When you run init hosting, it overwrite firebase.json. Resetting this to previously checked in code
+    ```bash
+    $ cp firebase.json.bkp firebase.json
+    ```
+
+6.  Run webpack to bundle your code:
 
     ```bash
     $ npx webpack
     ```
 
-4.  Deploy to Firebase
+7.  Deploy to Firebase
 
     ```bash
     $ npx firebase deploy
     ```
 
-6. Before you access the deployed url, add user in your firebase application 
+8. Before you access the deployed url, add user in your firebase application 
   ![](images/add-users.png)
 
-7. Open the deployed firebase url with the user you just created.
+9. Open the deployed firebase url with the user you just created.
   ![](images/login.png)
 
 
-8. To Unhost from firebase
+10. At the botton of the page, click Logout
+
+
+11. To Unhost from firebase
     ```bash
     $ npx firebase hosting:disable
     ```
