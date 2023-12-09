@@ -24,7 +24,7 @@
     Few Screen Shots for Reference [Change public directory to dist]
 
     ![](images/firebasehosting-config1.png)
-    ![](images/firebasehosting-config2.png)
+
 
 3. Update index.js with your applications firebase config. The below snippet needs to be replaced with your firebase application details. This details can be found in project settings section of your firebase application in your google project
 
