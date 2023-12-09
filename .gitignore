@@ -65,3 +65,7 @@ dist/
 
 # dotenv environment variables file
 .env
+
+#Others
+.DS_Store
+package-lock.json
